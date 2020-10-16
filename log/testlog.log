@@ -1,0 +1,74 @@
+2020-10-15 11:07:50,549 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:08:27,077 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:10:54,049 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:11:54,149 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:14:37,519 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:15:23,091 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:17:25,333 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:21:50,932 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:24:37,954 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:27:22,788 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:28:44,574 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:30:46,946 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:31:19,435 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:32:36,068 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:33:55,644 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 11:35:30,340 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 13:31:35,353 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 13:32:41,403 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 13:38:28,296 - JavaFramework -INFO - URL is Opened....!!!
+2020-10-15 19:22:17,617 - JavaFramework -INFO - test case Passed.....
+2020-10-16 11:46:53,987 - Gitlab -INFO - User name is entered
+2020-10-16 11:46:54,207 - Gitlab -INFO - Password is Entered
+2020-10-16 11:46:56,831 - Gitlab -INFO - Clicked on Sign in button
+2020-10-16 12:15:45,618 - Gitlab -INFO - email id is entered
+2020-10-16 12:15:45,730 - Gitlab -INFO - Password is Entered
+2020-10-16 12:15:49,422 - Gitlab -INFO - Clicked on Sign in button
+2020-10-16 12:15:56,534 - Gitlab -INFO - Account signed out
+2020-10-16 12:19:15,112 - Gitlab -INFO - email id is entered
+2020-10-16 12:19:15,232 - Gitlab -INFO - Password is Entered
+2020-10-16 12:19:19,064 - Gitlab -INFO - Clicked on Sign in button
+2020-10-16 12:19:26,080 - Gitlab -INFO - Account signed out
+2020-10-16 12:21:35,873 - Gitlab -INFO - email id is entered
+2020-10-16 12:21:35,980 - Gitlab -INFO - Password is Entered
+2020-10-16 12:21:39,896 - Gitlab -INFO - Clicked on Sign in button
+2020-10-16 12:21:48,058 - Gitlab -INFO - Account signed out
+2020-10-16 12:22:37,591 - Gitlab -INFO - email id is entered
+2020-10-16 12:22:37,693 - Gitlab -INFO - Password is Entered
+2020-10-16 12:22:42,243 - Gitlab -INFO - Clicked on Sign in button
+2020-10-16 12:22:49,961 - Gitlab -INFO - Account signed out
+2020-10-16 12:22:55,053 - Gitlab -INFO - username is entered
+2020-10-16 12:22:55,152 - Gitlab -INFO - Password is Entered
+2020-10-16 12:22:58,228 - Gitlab -INFO - Clicked on Sign in button
+2020-10-16 12:23:05,585 - Gitlab -INFO - Account signed out
+2020-10-16 12:45:58,043 - Gitlab -INFO - Project name is Entered
+2020-10-16 12:45:58,216 - Gitlab -INFO - Project name is Entered
+2020-10-16 12:45:58,344 - Gitlab -INFO - Visibility mode public
+2020-10-16 12:46:02,072 - Gitlab -INFO - Clicked on Create Project button
+2020-10-16 12:46:02,072 - Gitlab -INFO - Project is Created
+2020-10-16 12:52:15,606 - Gitlab -INFO - Project name is Entered
+2020-10-16 12:52:15,782 - Gitlab -INFO - Project name is Entered
+2020-10-16 12:52:15,902 - Gitlab -INFO - Visibility mode public
+2020-10-16 12:52:19,615 - Gitlab -INFO - Clicked on Create Project button
+2020-10-16 12:52:19,615 - Gitlab -INFO - Project is Created
+2020-10-16 12:55:25,667 - Gitlab -INFO - Project name is Entered
+2020-10-16 12:55:25,844 - Gitlab -INFO - Project name is Entered
+2020-10-16 12:55:25,956 - Gitlab -INFO - Visibility mode public
+2020-10-16 12:55:29,924 - Gitlab -INFO - Clicked on Create Project button
+2020-10-16 12:55:29,924 - Gitlab -INFO - Project is Created
+2020-10-16 13:12:01,705 - Gitlab -INFO - Project name is Entered
+2020-10-16 13:12:01,839 - Gitlab -INFO - Project Description is Entered
+2020-10-16 13:12:01,943 - Gitlab -INFO - Visibility mode public
+2020-10-16 13:12:05,655 - Gitlab -INFO - Clicked on Create Project button
+2020-10-16 13:12:05,663 - Gitlab -INFO - Project is Created
+2020-10-16 13:12:05,713 - Gitlab -INFO - Project name is Validated
+2020-10-16 13:12:05,713 - Gitlab -INFO - test case Passed.....
+2020-10-16 13:12:13,385 - Gitlab -INFO - Account signed out
+2020-10-16 13:23:38,972 - Gitlab -INFO - Project name is Entered
+2020-10-16 13:23:39,111 - Gitlab -INFO - Project Description is Entered
+2020-10-16 13:23:39,199 - Gitlab -INFO - Visibility mode public
+2020-10-16 13:23:42,926 - Gitlab -INFO - Clicked on Create Project button
+2020-10-16 13:23:42,926 - Gitlab -INFO - Project is Created
+2020-10-16 13:23:42,995 - Gitlab -INFO - Project name is Validated
+2020-10-16 13:23:42,995 - Gitlab -INFO - test case Passed.....
+2020-10-16 13:23:50,385 - Gitlab -INFO - Account signed out
